@@ -4,6 +4,8 @@ Di sini hanya CRUD Sederhana menggunakan :
 	2. Bootstrap 
 	3. Database Mysql
 
+cara menampilkannya di browser :
+http://localhost/crud_profile/index.php/Profile/tampil_data
 
 ![p1](https://user-images.githubusercontent.com/82190659/161847949-4c9008ea-3fa0-4076-94ac-5b1b876469e5.png)
 
